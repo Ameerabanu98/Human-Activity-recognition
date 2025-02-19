@@ -1,7 +1,7 @@
 #  Human Activity Recognition Using Smartphone Data
 
 ##  Project Overview
-This project focuses on classifying human activities using smartphone sensor data. The dataset contains motion data from smartphone accelerometers and gyroscopes, and machine learning models are trained to predict activities such as walking, sitting, and jogging.
+This project focuses on classifying human activities using smartphone sensor data. The dataset contains motion data from smartphone accelerometers and gyroscopes, and machine learning models are trained to predict activities such as walking, sitting, and standing.
 
 ##  Dataset
 - **Source:** Kaggle
