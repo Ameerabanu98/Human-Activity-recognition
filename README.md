@@ -9,7 +9,7 @@ This project focuses on classifying human activities using smartphone sensor dat
 - **Labels:** Activities like walking, sitting, standing, etc.
 - **Size:** Train and test sets with ~10,000+ instances
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Python** 
 - **Scikit-learn** 
 - **Pandas & NumPy** 
@@ -40,8 +40,8 @@ This project focuses on classifying human activities using smartphone sensor dat
 
 
 ##  Future Enhancements
-Try **Deep Learning** models (LSTMs, CNNs) for better accuracy.
-Experiment with **feature selection** techniques to improve performance.
-Real-time Prediction – Deploy for live activity recognition.
-Edge Optimization – Adapt for smartwatches & IoT devices.
+- Try **Deep Learning** models (LSTMs, CNNs) for better accuracy.
+- Experiment with **feature selection** techniques to improve performance.
+- Real-time Prediction – Deploy for live activity recognition.
+- Edge Optimization – Adapt for smartwatches & IoT devices.
 
