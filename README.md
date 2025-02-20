@@ -28,7 +28,7 @@ This project focuses on classifying human activities using smartphone sensor dat
 ##  Model Training & Evaluation
 - **Hyperparameter tuning** was applied using `GridSearchCV`.
 - **Best performing model:** Support Vector Classifier (SVC) with **91.44% accuracy**.
-- **Other models tested:** Random Forest (91.38%), GaussianNB (90.6%), Logistic Regression (89.58%).
+- **Other models tested:** Random Forest (91.00%), GaussianNB (90.6%), Logistic Regression (89.58%).
 
 # Model Performance Comparison
 
