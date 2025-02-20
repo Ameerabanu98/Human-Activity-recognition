@@ -30,13 +30,17 @@ This project focuses on classifying human activities using smartphone sensor dat
 - **Best performing model:** Support Vector Classifier (SVC) with **91.44% accuracy**.
 - **Other models tested:** Random Forest (91.38%), GaussianNB (90.6%), Logistic Regression (89.58%).
 
-##  Results Summary
-| Model                     | Accuracy | Precision | Recall | F1 Score |
-|---------------------------|----------|-----------|--------|----------|
-| **Support Vector Classifier** | **91.44%** | 91.51%    | 91.52% | 91.40%   |
-| Random Forest Classifier  | 91.38%   | 91.26%    | 91.16% | 91.19%   |
-| GaussianNB               | 90.60%   | 90.73%    | 90.60% | 90.63%   |
-| Logistic Regression      | 89.58%   | 89.69%    | 89.70% | 89.57%   |
+# Model Performance Comparison
+
+The table below presents the performance metrics of different classification models used for human activity recognition.
+
+| Model                      | Accuracy | Precision | Recall  | F1-score |
+|----------------------------|----------|------------|--------|----------|
+| Support Vector Classifier  | 0.914489 | 0.915192   | 0.915227 | 0.913955 |
+| RandomForestClassifier     | 0.910078 | 0.908959   | 0.907987 | 0.908312 |
+| GaussianNB                 | 0.906006 | 0.907333   | 0.906015 | 0.906332 |
+| LogisticRegression         | 0.896166 | 0.897162   | 0.897415 | 0.896103 |
+
 
 
 ##  Future Enhancements
